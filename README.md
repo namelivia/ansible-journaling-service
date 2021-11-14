@@ -11,7 +11,7 @@ collections:
   - community.docker
 
 roles:
-  - src: https://github.com/namelivia/namelivia.journalingservice
+  - src: https://github.com/namelivia/namelivia.journaling-service
 ```
 
 ## Required variables (TODO: Update these)
